@@ -6,6 +6,8 @@ then
 
 ollama run mistral
 
+it works totaly off line as Safari text to speech works without internet or vpn
+
 I am using a system prompt to have the LLM pretend to be the AI boss from our
 
 The wrapper that is doing this is a general purpose chat bot that was made with p5js speech and p5js follwing the pollinations api
